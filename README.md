@@ -1,6 +1,6 @@
 # heap-crossbar Docker Image
 
-Docker image for running [Crossbar](https://crossbar.io) in a Heap-based
+Docker image for running [Crossbar](http://crossbar.io) in a Heap-based
 environment.
 
 ## Usage
@@ -27,3 +27,6 @@ With the above configuration, the Crossbar config file should be located at
 All work found under this repository is licensed under the [Apache
 License 2.0](LICENSE).
 
+This image packages [Crossbar](https://github.com/crossbario/crossbar), a WAMP
+server whose source code is available under the [GNU Affero General Public
+License](https://github.com/crossbario/crossbar/blob/master/LICENSE).
